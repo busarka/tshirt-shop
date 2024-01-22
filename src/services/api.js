@@ -1,3 +1,4 @@
+/* eslint-disable eqeqeq */
 const sizes = [
   { id: 1, label: 'XS', number: 44 },
   { id: 2, label: 'S', number: 46 },
